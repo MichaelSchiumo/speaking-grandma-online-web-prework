@@ -15,7 +15,7 @@ def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!", greeting = "Hi, Nana, how a
   
     return "HUH?! SPEAk UP, SONNY!"
   
-elsif question == "WHAT DID YOU EAT TODAY?".downcase 
+elsif question == "WHAT DID YOU EAT TODAY?" 
   
   return "NO, NOT SINCE 1938!"
   
